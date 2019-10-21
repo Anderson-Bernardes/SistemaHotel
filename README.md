@@ -1,4 +1,4 @@
-# README
+# Sistema Hotel
 
 Elaborar um product backlog, um sprint backlog e escrever (com testes de unidade) em Ruby
 on Rails a primeira versão um sistema de informação para um dos temas a abaixo (de acordo
