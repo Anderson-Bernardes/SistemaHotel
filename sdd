@@ -1,0 +1,53 @@
+[33mcommit effaddcdc02463b5fef3cddd4b473b286707c04e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: gabrielbruschi <gabrielbruschi1@gmail.com>
+Date:   Thu Nov 14 17:16:59 2019 -0300
+
+    crud
+
+[33mcommit 3625f3357142a1b54d79c9ebc5b8a2554df153d8[m
+Author: gabrielbruschi <gabrielbruschi1@gmail.com>
+Date:   Thu Nov 14 16:33:44 2019 -0300
+
+    Paginas estaticas
+
+[33mcommit 7ed892cb8328012500e54c0c1b3625bd673068ad[m
+Author: gabrielbruschi <gabrielbruschi1@gmail.com>
+Date:   Thu Nov 14 15:59:26 2019 -0300
+
+    Add Partials (rodape & cabecalho)
+
+[33mcommit 27a8dda1310f25a4a6b40acdb6b9101bcdd1ca58[m
+Author: gabrielbruschi <gabrielbruschi1@gmail.com>
+Date:   Thu Nov 14 15:34:51 2019 -0300
+
+    adicionado bootstrap
+
+[33mcommit eaad24d20bee8e2ad44ecb7c12e4b72be607a858[m
+Author: gabrielbruschi <gabrielbruschi1@gmail.com>
+Date:   Thu Nov 14 15:24:05 2019 -0300
+
+    Inclusao index
+
+[33mcommit c5ecc8e5200b2bed011fcf18fc78fd466c3f1226[m
+Author: Anderson Bernardes <anderson_megax@hotmail.com>
+Date:   Mon Oct 21 13:50:33 2019 -0300
+
+    Update README.md
+
+[33mcommit 220a6c1d7be7dfcafbd5750ccbf96fdd3b5edb71[m
+Author: Anderson Bernardes <anderson_megax@hotmail.com>
+Date:   Mon Oct 21 13:49:42 2019 -0300
+
+    Update README.md
+
+[33mcommit 1bc4d42c5a1e8f6cff8552c473004d2ed19adee6[m
+Author: Anderson Parca Bernardes <anderson_megax@hotmail.com>
+Date:   Mon Oct 21 13:46:29 2019 -0300
+
+    initial commit
+
+[33mcommit 0fdfb49eb4761841b05f81a9befee209f19ffeda[m
+Author: Anderson Parca Bernardes <anderson_megax@hotmail.com>
+Date:   Mon Oct 21 13:24:27 2019 -0300
+
+    initial commit
