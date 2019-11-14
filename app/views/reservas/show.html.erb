@@ -1,0 +1,29 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Nome cliente:</strong>
+  <%= @reserva.nome_cliente %>
+</p>
+
+<p>
+  <strong>Cpf:</strong>
+  <%= @reserva.cpf %>
+</p>
+
+<p>
+  <strong>Telefone:</strong>
+  <%= @reserva.telefone %>
+</p>
+
+<p>
+  <strong>Endereco:</strong>
+  <%= @reserva.endereco %>
+</p>
+
+<p>
+  <strong>Data nasc:</strong>
+  <%= @reserva.data_nasc %>
+</p>
+
+<%= link_to 'Edit', edit_reserva_path(@reserva) %> |
+<%= link_to 'Back', reservas_path %>
